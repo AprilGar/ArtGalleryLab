@@ -12,7 +12,8 @@ public class Gallery {
         this.till = till;
     }
 
-    public static void acceptPayment(int payment){
+    public void acceptPayment(int payment){
+        
         till += payment;
     }
 
