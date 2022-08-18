@@ -12,9 +12,10 @@ public class Gallery {
         this.till = till;
     }
 
-    public void acceptPayment(int payment){
+    public int acceptPayment(int payment){
         
         till += payment;
+        return till;
     }
 
 }
