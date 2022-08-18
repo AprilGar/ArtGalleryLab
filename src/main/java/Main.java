@@ -8,6 +8,8 @@ public class Main {
         Gallery gallery1 = new Gallery("gallery1",1000 );
 
         Artwork artwork1 = new Artwork("Magenta", "ZoeG", 500, 9);
+
+//        gallery1.addArtwork(new Artwork());
         
         }
 

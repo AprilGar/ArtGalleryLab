@@ -18,4 +18,8 @@ public class Gallery {
         return till;
     }
 
+//    public void addArtwork(Artwork artwork){
+//        this.artwork.add(artwork);
+//    }
+
 }
